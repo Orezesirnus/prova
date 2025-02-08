@@ -1,1 +1,2 @@
 file locale
+Sulla branch feature/a ho fatto dei cambiamenti
